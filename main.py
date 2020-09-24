@@ -1,4 +1,4 @@
-ez = input("boh sus")
-lol = input("john cena")
+ez = input("")
+lol = input("")
 
 print(ez+lol)
