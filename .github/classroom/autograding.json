@@ -24,8 +24,8 @@
       "name": "N U L L",
       "setup": "",
       "run": "python main.py",
-      "input": "null\r\nnull",
-      "output": "null",
+      "input": "None\r\None",
+      "output": "None",
       "comparison": "included",
       "timeout": 10,
       "points": 10
