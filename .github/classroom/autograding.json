@@ -9,6 +9,26 @@
       "comparison": "exact",
       "timeout": 1,
       "points": 1
+    },
+    {
+      "name": "E",
+      "setup": "",
+      "run": "python main.py",
+      "input": "dpisahdsaf\r\naifhaishf",
+      "output": "dpisahdsafaifhaishf",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "N U L L",
+      "setup": "",
+      "run": "python main.py",
+      "input": "null\r\nnull",
+      "output": "null",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
     }
   ]
 }
