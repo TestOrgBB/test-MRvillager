@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "1+2",
+      "setup": "",
+      "run": "python main.py",
+      "input": "1\r\n2",
+      "output": "3",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
